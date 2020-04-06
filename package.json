@@ -1,6 +1,6 @@
 {
   "name": "react-native-credit-card",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -26,6 +26,6 @@
     "react-native": "~0.61.5",
     "card-validator": "^6.2.0",
     "prop-types": "^15.7.2",
-    "react-native-flip-card": "^3.4.1"
+    "react-native-flip-card": "^3.5.5"
   }
 }

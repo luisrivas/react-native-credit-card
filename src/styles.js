@@ -50,13 +50,13 @@ const styles = StyleSheet.create({
     fontSize: 16,
     position: 'absolute',
     top: 73,
-    right: 30,
+    right: 25,
   },
   cvc: {
     fontSize: 16,
     position: 'absolute',
     top: 80,
-    right: 30,
+    right: 25,
   },
 });
 
