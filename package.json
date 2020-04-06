@@ -1,12 +1,31 @@
 {
-  "name": "react-native-credit-card-view",
+  "name": "react-native-credit-card",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "credit-card",
+    "credit-card-view",
+    "credit card",
+    "flip",
+    "card",
+    "component",
+    "react-component",
+    "react-native-component"
+  ],
   "author": "Luis Rivas",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "~16.9.0",
+    "react-native": "~0.61.5",
+    "card-validator": "^6.2.0",
+    "prop-types": "^15.7.2",
+    "react-native-flip-card": "^3.4.1"
+  }
 }
